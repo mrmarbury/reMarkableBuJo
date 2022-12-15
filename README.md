@@ -6,6 +6,7 @@ Simple templates for BuJo on the reMarkable.
 
  - scp the png and svg files to the reMarkable put the in `/usr/share/remarkable/templates/`
  - configure the templates in the `templates.json`
+ - `mood and habit` file is landscape. So `"landscape": true` must be added in the `template.json`
 
 For icons and more detailed instructions see [here](https://remarkablewiki.com/tips/templates)
 
